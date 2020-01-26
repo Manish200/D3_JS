@@ -1,9 +1,9 @@
 import React from 'react';
 // import logo from './logo.svg';
 // import { csv } from 'd3';
-import Navigation from './components/Navigation';
+//import Navigation from './components/Navigation';
 import Header from './components/Header';
-import Services from './components/Services';
+// import Services from './components/Services';
 import './App.css';
 
 function App() {
